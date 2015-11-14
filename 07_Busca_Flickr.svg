@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1600"
@@ -94,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,7 +133,7 @@
          x="225.95927"
          y="-5.3350682"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
-         id="tspan3358">titulo</tspan></text>
+         id="tspan3358">Busca de imagens</tspan></text>
     <rect
        style="fill:#cccccc;fill-opacity:0.61783441;stroke:none"
        id="rect3408"
@@ -163,6 +164,15 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000"
          y="280.37643"
          x="225.95927"
-         sodipodi:role="line">sub</tspan></text>
+         sodipodi:role="line">https://www.flickr.com/</tspan></text>
+    <image
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/Palestra_Direitos_Autorais_e_Cultura_Colaborativa/imagens/Flickr_logo.png"
+       xlink:href="imagens/Flickr_logo.png"
+       y="64.007591"
+       x="32.01939"
+       id="image96"
+       preserveAspectRatio="none"
+       height="117.46603"
+       width="387.51678" />
   </g>
 </svg>

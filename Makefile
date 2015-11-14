@@ -13,14 +13,16 @@ SLIDES = 00_INTRO.pdf \
          09_New_Old_Stock_Exemplo.pdf \
          10_YouTube_Flickr_Como_Usar.pdf \
          11_Creditar_Texto.pdf \
-         12_Para_a_Web.pdf \
-         13_Wikis_Edicao_Colaborativa.pdf \
          14_Wikipedia.pdf \
-         15_Perguntas.pdf \
-         16_Atividade1_Conta.pdf \
-         17_Atividade2_Pagina.pdf \
          18_Obrigado.pdf
 
+#         12_Para_a_Web.pdf \
+#         13_Wikis_Edicao_Colaborativa.pdf \
+#         15_Perguntas.pdf \
+#         16_Atividade1_Conta.pdf \
+#         17_Atividade2_Pagina.pdf \
+
+        
 PDF = Direitos_Autorais_e_Cultura_Colaborativa.pdf
 
 all: $(PDF)

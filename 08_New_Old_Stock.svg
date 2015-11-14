@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1600"
@@ -15,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91+devel r"
    viewBox="0 0 451.55557 338.66667"
-   sodipodi:docname="07_Busca_Flickr.svg">
+   sodipodi:docname="08_New_Old_Stock.svg">
   <defs
      id="defs4">
     <clipPath
@@ -66,6 +67,19 @@
          rx="7.5601124e-06"
          ry="7.5601124e-06" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4497">
+      <rect
+         style="opacity:1;fill:#e9afaf;fill-opacity:0.49710987;stroke:none;stroke-width:0.78642964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:45;stroke-opacity:1"
+         id="rect4499"
+         width="343.59274"
+         height="166.8703"
+         x="65.886055"
+         y="56.238789"
+         rx="7.5601133e-06"
+         ry="7.5601124e-06" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -94,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -104,7 +118,7 @@
      id="layer1"
      transform="translate(0,41.666668)">
     <rect
-       style="fill:#fefefe;fill-opacity:1;stroke:none"
+       style="fill:#fcfcfc;fill-opacity:1;stroke:none"
        id="rect3370"
        width="451.55557"
        height="337.43515"
@@ -132,7 +146,7 @@
          x="225.95927"
          y="-5.3350682"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Garoa Hacker Clube';-inkscape-font-specification:'Garoa Hacker Clube Bold';text-align:center;text-anchor:middle"
-         id="tspan3358">titulo</tspan></text>
+         id="tspan3358">New old Stock</tspan></text>
     <rect
        style="fill:#cccccc;fill-opacity:0.61783441;stroke:none"
        id="rect3408"
@@ -162,7 +176,18 @@
          id="tspan3785"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#800000"
          y="280.37643"
-         x="225.95927"
-         sodipodi:role="line">sub</tspan></text>
+         x="225.95926"
+         sodipodi:role="line">Imagens em domínio público</tspan></text>
+    <image
+       sodipodi:absref="/home/felipe/devel/github_felipesanches/Palestra_Direitos_Autorais_e_Cultura_Colaborativa/imagens/bancos-de-imagens-gratis1.png"
+       xlink:href="imagens/bancos-de-imagens-gratis1.png"
+       transform="translate(-11.904644)"
+       clip-path="url(#clipPath4497)"
+       width="438.83231"
+       height="190.93617"
+       preserveAspectRatio="none"
+       id="image341"
+       x="6.3616295"
+       y="33.737988" />
   </g>
 </svg>
