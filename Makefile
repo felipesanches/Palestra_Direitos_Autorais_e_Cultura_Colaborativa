@@ -23,7 +23,7 @@ SLIDES = 00_INTRO.pdf \
 #         17_Atividade2_Pagina.pdf \
 
         
-PDF = Direitos_Autorais_e_Cultura_Colaborativa.pdf
+PDF = PDF/Direitos_Autorais_e_Cultura_Colaborativa.pdf
 
 all: $(PDF)
 
